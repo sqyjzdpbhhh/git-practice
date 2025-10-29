@@ -1,0 +1,3 @@
+Project Plan:
+- Function A;
+- Function B (enhanced).
